@@ -8,7 +8,7 @@ This project contains a Streamlit application containerized with Docker, allowin
 
 - Runs a **Streamlit web app** in a Docker container.
 - No need for local Python setup or dependencies.
-- Works seamlessly on Windows, macOS, and Linux.
+- Works on Linux.
 
 ---
 
